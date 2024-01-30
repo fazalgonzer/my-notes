@@ -1,0 +1,6 @@
+Using resnet Making upper layer untrainable then addin own layer for binary classification.
+
+we can acheive more accuracy if we run it for more epochs but because of lower resources i can run it for 1hr .
+10 epochs .
+
+i can make fine tuning by using more layers or using lr=0.1 or doing other things to amke it more fine Tune. 
